@@ -10,7 +10,7 @@ import person2 from '../../assests/images/person2.png';
 import person3 from '../../assests/images/person3.png';
 import { Typewriter } from 'react-simple-typewriter'
 import Modal from 'react-bootstrap/Modal';
-import pdf from '../../assests/Kalai-resume.pdf';
+import pdf from '../../assests/Hari_IT_Resume React.pdf';
 
 import AOS from 'aos';
 function Home({ colorName, theme }) {
@@ -47,7 +47,7 @@ function Home({ colorName, theme }) {
     }
 
     const GithubPath = () => {
-        window.open('https://github.com/KalaiRoman?tab=repositories')
+        window.open('https://github.com/dashboard')
     }
     const handleType = (count) => {
     }
